@@ -3,6 +3,9 @@
 
 # IterDet: Iterative Scheme for Object Detection in Crowded Environments
 
+**News**:
+ * :cry: June, 2025. Original repo with [200+](https://web.archive.org/web/20240420000322/github.com/samsunglabs/iterdet) :star: was deleted from `SamsungLabs/iterdet`.
+
 This project hosts the code for implementing the IterDet scheme for object detection,
 as presented in our paper:
 
